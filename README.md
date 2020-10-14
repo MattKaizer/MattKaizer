@@ -4,7 +4,7 @@
 <img width="800" height="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 </p>
 
-## Hello I'm an Argentinian developer living on Santa Cruz de Tenerife, Canary Island (I'm lucky, i know...). Always learning, always loving to learn. 
+## Hello I'm an developer living on Santa Cruz de Tenerife, Canary Island (I'm lucky, i know...). Always learning, always loving to learn. 
 ### *Love what you do and you'll never work...* 
 <!--
 **MattKaizer/MattKaizer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
